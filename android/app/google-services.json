@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "15390826316",
+    "project_id": "fundingpe",
+    "storage_bucket": "fundingpe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15390826316:android:7e7239c16808f901f6f9e9",
+        "android_client_info": {
+          "package_name": "com.fundingpe.masjid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGCOYLYzuTWiCttaDTYXNyLjLnXUGG64Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      },
+      "admob_app_id": "ca-app-pub-4971954097450727~1547078431"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15390826316:android:057826c33ba690f4f6f9e9",
+        "android_client_info": {
+          "package_name": "com.fundingpe.masjid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGCOYLYzuTWiCttaDTYXNyLjLnXUGG64Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

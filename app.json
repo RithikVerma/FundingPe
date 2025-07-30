@@ -1,4 +1,8 @@
 {
   "name": "FundingPe",
-  "displayName": "FundingPe"
+  "displayName": "FundingPe",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-4971954097450727~1547078431",
+    "ios_app_id": "ca-app-pub-4971954097450727~1547078431"
+  }
 }

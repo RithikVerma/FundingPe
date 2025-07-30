@@ -17,6 +17,9 @@ end
 target 'FundingPe' do
   config = use_native_modules!
 
+  # Add Google Mobile Ads SDK
+  pod 'Google-Mobile-Ads-SDK'
+
   use_react_native!(
     :path => config[:reactNativePath],
     # An absolute path to your application root.
